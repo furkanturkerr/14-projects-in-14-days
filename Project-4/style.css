@@ -24,16 +24,16 @@ body {
     font-size: 16px;
     padding: 15px;
     height: 50px;
-    transform: width 0.3s ease;
+    transition: width 0.3s ease;
 }
 
-.btn{
+.btn {
     position: absolute;
     width: 50px;
     height: 50px;
     top: 0;
     left: 0;
-    background-color:rgb(255, 251,1);
+    background-color: rgb(255, 251, 1);
     border: 0;
     color: #000000;
     transition: transform 0.3s ease;
@@ -42,14 +42,14 @@ body {
 }
 
 .input:focus,
-.btn:focus{
+.btn:focus {
     outline: none;
 }
 
-.search.active .input{
+.search.active .input {
     width: 200px;
 }
 
-.search.search.active .btn{
+.search.active .btn {
     transform: translateX(198px);
 }
