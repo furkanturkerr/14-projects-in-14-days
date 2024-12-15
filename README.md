@@ -8,3 +8,4 @@ This repository contains 50 small web development projects built with HTML, CSS,
 | 1   | **Expanding Cards**   | Animated expanding cards.  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-1) |
 | 2   | **Progress Bar**   | Animated Progress Steps   | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-2) |
 | 3   | **Animated Menu**  | Animated Rotating Menu  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-3) |
+| 4   | **Search Input**  | Hidden Search Widget  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-4) |
