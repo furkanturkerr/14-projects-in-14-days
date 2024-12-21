@@ -11,3 +11,4 @@ This repository contains 50 small web development projects built with HTML, CSS,
 | 4   | **Search Input**  | Hidden Search Widget  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-4) |
 | 5   | **Loading Screen**  | Blurred Loading Screen  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-5) |
 | 6   | **Scroll Animation**  | Scroll Animation  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-6) |
+| 7   | **Split Landing Page**  | Animated Expanding Landing Page  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-7) |
