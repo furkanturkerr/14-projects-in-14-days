@@ -14,3 +14,4 @@ This repository contains 50 small web development projects built with HTML, CSS,
 | 7   | **Split Landing Page**  | Animated Expanding Landing Page  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-7) |
 | 8   | **Wave Animation**  | Wave Animation  | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-8) |
 | 9   | **Sound Stream Deck**  | Sound Stream Deck | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-9) |
+| 9   | **Dad Jokes Generator**  | Dad Jokes Generator | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-10) |
