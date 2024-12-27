@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(51, 51, 51);
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.key {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 50px;
+    background-color: antiquewhite;
+    padding: 22px 50px;
+    border-radius: 20px;
+    min-width: 150px;
+    margin-bottom: 50px;
+    position: relative;
+    box-shadow: 3px 3px 3px  rgb(255, 255, 255);
+}
+
+.key small{
+    position: absolute;
+    top: -24px;
+    color: antiquewhite;
+}
