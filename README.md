@@ -16,3 +16,4 @@ This repository contains 50 small web development projects built with HTML, CSS,
 | 9   | **Sound Stream Deck**  | Sound Stream Deck | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-09) |
 | 10   | **Dad Jokes Generator**  | Dad Jokes Generator | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-10) |
 | 11   | **keyCodes**  | keyCodes Practice | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-11) |
+| 13   | **Navbar**  | Animation Navbar | [View Project](https://github.com/furkanturkerr/50-projects-in-50-days/tree/main/Project-13) |
