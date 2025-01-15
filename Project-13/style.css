@@ -26,8 +26,14 @@ nav {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    transition: width 0.6s ease;
+    transition: all 0.6s ease;
     transition-delay: .3s;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+nav:hover{
+    box-shadow: 7px 7px 10px;
 }
 
 nav.active {
@@ -43,7 +49,7 @@ nav ul {
     justify-content: space-around;
     opacity: 1;
     visibility: visible;
-    transition: opacity 0.7s ease 0.7s;
+    transition: opacity 0.6s ease 0.6s;
 }
 
 nav.active ul {
@@ -74,38 +80,36 @@ button {
     position: relative;
     width: 24px;
     height: 24px;
-    /* Başlangıçta ikon ortada olmalı */
     left: 0;
     transition: left 1.2s ease-in-out;
 }
 
 .icon .line {
     background-color: var(--blue);
-    height: 2px;
+    height: 4px;
     width: 24px;
     position: absolute;
-    transition: transform 0.6s ease, left 0.6s ease;
+    transition: transform 0.6s linear, left 0.6s linear;
 }
 
 nav.active .icon {
-    /* Menü açıldığında ikon sağa kayar */
     left: -105px;
 }
 
 .icon .line1 {
-    top: 8px;
+    top: 14px;
 }
 
 .icon .line2 {
-    bottom: 8px;
+    bottom: 14px;
 }
 
 nav.active .icon .line1 {
-    transform: rotate(45deg) translateY(0);
+    transform: rotate(765deg) translateY(0);
     top: 50%;
 }
 
 nav.active .icon .line2 {
-    transform: rotate(-45deg) translateY(0);
+    transform: rotate(-765deg) translateY(0);
     top: 50%;
 }
